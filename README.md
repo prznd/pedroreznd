@@ -1,16 +1,14 @@
-# PEDROREZND
+# PEDRO RESENDE OLIVEIRA
 
 Building data-intensive interfaces and real-time products.  
 Currently focused on analytics platforms, dashboards and performance-sensitive UIs.
 
--------------------------
 
 Connect With Me
 
 • LinkedIn   → https://linkedin.com/in/p-resende  
 • Email      → resendepedro8@gmail.com  
 
--------------------------
 
 Skills & Tools
 
@@ -19,7 +17,6 @@ Skills & Tools
 • Integration:   REST APIs, client-server architecture, Web3 integrations  
 • Tooling:       Git, GitHub, Vite, Webpack, Agile environments  
 
--------------------------
 
 What I Work On
 
@@ -29,7 +26,6 @@ What I Work On
 • Rendering performance & bundle optimization  
 • Complex client-side state management  
 
--------------------------
 
 Based in São Carlos, Brazil  
 Open to remote opportunities
