@@ -21,6 +21,13 @@ Skills & Tools
 
 -------------------------
 
+Work
+
+• OPSIN Terminal  →  https://terminal.opsin.finance
+  Real-time blockchain analytics platform with data-heavy dashboards and financial-style interfaces.
+
+-------------------------
+
 What I Work On
 
 • Real-time dashboards handling continuously updating datasets  
