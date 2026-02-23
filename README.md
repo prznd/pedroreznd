@@ -1,16 +1,35 @@
-## Hi there 👋
+# PEDROREZND
 
-<!--
-**pedroreznd/pedroreznd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building data-intensive interfaces and real-time products.  
+Currently focused on analytics platforms, dashboards and performance-sensitive UIs.
 
-Here are some ideas to get you started:
+-------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect With Me
+
+• LinkedIn   → https://linkedin.com/in/p-resende  
+• Email      → resendepedro8@gmail.com  
+
+-------------------------
+
+Skills & Tools
+
+• Frontend:      React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS  
+• Data & Realtime:  Real-time rendering, polling strategies, state synchronization, performance optimization  
+• Integration:   REST APIs, client-server architecture, Web3 integrations  
+• Tooling:       Git, GitHub, Vite, Webpack, Agile environments  
+
+-------------------------
+
+What I Work On
+
+• Real-time dashboards handling continuously updating datasets  
+• Monitoring and analytics interfaces  
+• UI stability under high-frequency updates  
+• Rendering performance & bundle optimization  
+• Complex client-side state management  
+
+-------------------------
+
+Based in São Carlos, Brazil  
+Open to remote opportunities
