@@ -23,7 +23,7 @@ Skills & Tools
 
 Work
 
-• OPSIN Terminal  →  https://terminal.opsin.finance
+• OPSIN Terminal  →  https://terminal.opsin.finance  
   Real-time blockchain analytics platform with data-heavy dashboards and financial-style interfaces.
 
 -------------------------
