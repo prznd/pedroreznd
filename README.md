@@ -38,5 +38,4 @@ What I Work On
 
 -------------------------
 
-Based in São Carlos, Brazil  
-Open to remote opportunities
+Based in BR.
