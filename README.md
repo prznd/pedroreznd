@@ -1,41 +1,24 @@
-# PEDRO RESENDE OLIVEIRA
-
-Building data-intensive interfaces and real-time products.  
-Currently focused on analytics platforms, dashboards and performance-sensitive UIs.
+building data-intensive interfaces and real-time products.  
+currently focused on analytics platforms, dashboards and performance-sensitive UIs.
 
 -------------------------
 
-Connect With Me
+connect
 
-• LinkedIn   → https://linkedin.com/in/p-resende  
-• Email      → resendepedro8@gmail.com  
-
--------------------------
-
-Skills & Tools
-
-• Frontend:      React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS  
-• Data & Realtime:  Real-time rendering, polling strategies, state synchronization, performance optimization  
-• Integration:   REST APIs, client-server architecture, Web3 integrations  
-• Tooling:       Git, GitHub, Vite, Webpack, Agile environments  
+• linkedIn   → https://linkedin.com/in/p-resende  
+• email      → resendepedro8@gmail.com  
 
 -------------------------
 
-Work
+what I Work On
 
-• OPSIN Terminal  →  https://terminal.opsin.finance  
-  Real-time blockchain analytics platform with data-heavy dashboards and financial-style interfaces.
-
--------------------------
-
-What I Work On
-
-• Real-time dashboards handling continuously updating datasets  
-• Monitoring and analytics interfaces  
-• UI stability under high-frequency updates  
-• Rendering performance & bundle optimization  
-• Complex client-side state management  
+• real-time dashboards handling continuously updating datasets  
+• monitoring and analytics interfaces  
+• ui stability under high-frequency updates  
+• rendering performance & bundle optimization  
+• complex client-side state management  
 
 -------------------------
 
-Based in BR.
+pedro r. oliveira
+based in BR.
