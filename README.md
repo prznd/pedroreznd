@@ -10,7 +10,7 @@ connect
 
 -------------------------
 
-what I Work On
+what I work on
 
 • real-time dashboards handling continuously updating datasets  
 • monitoring and analytics interfaces  
@@ -20,5 +20,5 @@ what I Work On
 
 -------------------------
 
-pedro r. oliveira
+pedro r. oliveira 
 based in BR.
