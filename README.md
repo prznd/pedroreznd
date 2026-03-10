@@ -23,4 +23,4 @@ currently focused on analytics platforms, dashboards and performance-sensitive U
 - Optimum — real-time stocks & crypto dashboard  
   stack: React 18, TypeScript, TradingView Lightweight Charts, Zustand, Finnhub API, PWA  
   demo → https://optimumdev.xyz  
-  code → [https://github.com/your-username/optimum ](https://github.com/pedroreznd/optimum) 
+  code → [https://github.com/pedroreznd/optimum ](https://github.com/pedroreznd/optimum) 
