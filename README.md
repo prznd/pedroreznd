@@ -3,11 +3,6 @@ resendepedro8@gmail.com
 
 -------------------------
 
-Building data-intensive interfaces and real-time products.
-currently focused on analytics platforms, dashboards and performance-sensitive UIs.
-
--------------------------
-
 **What I work on**
 
 - real-time dashboards handling continuously updating datasets
