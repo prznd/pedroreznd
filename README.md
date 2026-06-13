@@ -1,10 +1,10 @@
-Pedro Oliveira  
+PRZND | Pedro Oliveira    
 website → https://prznd.xyz  
 mail → resendepedro8@gmail.com  
 
-## About Me
+## Who Am I
 
-Frontend Developer with 2+ years of experience building real-time, data-intensive web applications.  
+Software Engineer with 2+ years of experience building real-time, data-intensive web applications.  
 Currently expanding into backend development, aiming to become a full-stack engineer and build end-to-end products.
 
 ## What I Work On
