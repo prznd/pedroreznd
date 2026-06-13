@@ -1,5 +1,5 @@
 Pedro Oliveira  
-ws - prznd.xyz
+ws - prznd.xyz  
 mail - resendepedro8@gmail.com  
 
 ## About Me
